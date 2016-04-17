@@ -6,7 +6,7 @@
   "dependencies": {
     "exenv": "^1.2.0",
     "object-assign": "^4.0.1",
-    "react-tween-state": "^0.1.3"
+    "react-tween-state": "github:magrinj/react-tween-state#3cc11774be6e5f1b6f31769bdbfa727219aab05b"
   },
   "devDependencies": {
     "babel-core": "^5.8.25",
